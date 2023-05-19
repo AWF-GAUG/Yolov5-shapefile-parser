@@ -4,7 +4,8 @@ This is a shapefile parser for the creation of yolov5 readable textfiles.
 ## Setup environment
 1. Create conda environment.
 2. Activate environment.
-3. Run: conda install pip
+3. Run: 
+`conda install pip`
 4. Go to project environment and run:
 `pip install -r requirements.txt`
 
@@ -32,7 +33,7 @@ If you want to store object id and object class (e.g. species) in the final text
 Create an output folder and store two empty folders inside. Name those folders "box" and "poly".
 
 ## Run shapefile parser
-Activate conda environment. Got to the script and run:
+Activate conda environment. Navigate to the script and run:
 
 `python yolo_shapefileparser.py --imagepath "PATH/TO/IMAGES" --shapepath "PATH/TO/SHAPEFILES" --outpath "PATH/TO/OUTPUTFOLDER" --imagesize 640 --attributes False`
 
