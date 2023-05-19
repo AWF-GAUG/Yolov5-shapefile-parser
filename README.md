@@ -21,7 +21,7 @@ The first position in the image- and the corresponding shape file names must be 
 
 **Example Image Names**
 
-"_100_xminmm_480500000_xmaxmm_480600000_ymincm_5601100000_ymaxcm_5601200000_.jpg"
+"_100_xminmm_480500000_xmaxmm_480590000_ymincm_5601100000_ymaxcm_5601200000_.jpg"
 
 **Example Corresponding Shapefile**
 
