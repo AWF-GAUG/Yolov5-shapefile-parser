@@ -16,7 +16,7 @@ The first position in the image- and the corresponding shape file names must be 
 
 **Structure Image Names**
 
-_ID_xminmm_xmincoords_xmaxmm_xmaxcoords_ymincm_ymincoords_ymaxcm_ymaxcoords_.jpg
+"_ID_xminmm_xmincoords_xmaxmm_xmaxcoords_ymincm_ymincoords_ymaxcm_ymaxcoords_.jpg"
 
 **Example Image Names**
 
