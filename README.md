@@ -1,5 +1,5 @@
 # Yolov5-shapefile-parser
-This is a shapefile parser for the creation of yolov5 readable textfiles.
+This is a shapefile parser for the creation of yolov5 readable textfiles of object bounding boxes and polygons.
 
 ## Setup environment
 1. Create conda environment.
