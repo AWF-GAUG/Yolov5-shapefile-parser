@@ -20,11 +20,11 @@ The first position in the image- and the corresponding shape file names must be 
 
 **Example Image Names**
 
-_100_xminmm_480500000_xmaxmm_480600000_ymincm_5601100000_ymaxcm_5601200000_.jpg
+"_100_xminmm_480500000_xmaxmm_480600000_ymincm_5601100000_ymaxcm_5601200000_.jpg"
 
 **Example Corresponding Shapefile**
 
-_100_..._.shp
+"_100_..._.shp"
 
 If you want to store object id and object class (e.g. species) in the final text files you need to store both information as numeric in attribute fields in the shape files. Name those fields "treeID" and "species_id". Or change ll. 42 and 56 in the parser script accroding to your data.
 
